@@ -1,1 +1,5 @@
-# Devops--Aula-2
+# Atrizes Preferidas
+
+* Sofia Loren
+* Juliana Paes
+* Fernanda Lima
